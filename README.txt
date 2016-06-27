@@ -1,3 +1,6 @@
+** Pre-requisites (on VIA VAB-820) **
+build ShivaVG first
+
 ** Building **
 
 python setup.py build
